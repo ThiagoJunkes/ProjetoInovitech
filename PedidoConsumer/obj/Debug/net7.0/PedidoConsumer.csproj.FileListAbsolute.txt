@@ -1,0 +1,6 @@
+D:\Programas\Git\ProjetoInovitech\PedidoConsumer\obj\Debug\net7.0\PedidoConsumer.csproj.AssemblyReference.cache
+D:\Programas\Git\ProjetoInovitech\PedidoConsumer\obj\Debug\net7.0\PedidoConsumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\Git\ProjetoInovitech\PedidoConsumer\obj\Debug\net7.0\PedidoConsumer.AssemblyInfoInputs.cache
+D:\Programas\Git\ProjetoInovitech\PedidoConsumer\obj\Debug\net7.0\PedidoConsumer.AssemblyInfo.cs
+D:\Programas\Git\ProjetoInovitech\PedidoConsumer\obj\Debug\net7.0\PedidoConsumer.csproj.CoreCompileInputs.cache
+D:\Programas\Git\ProjetoInovitech\PedidoConsumer\obj\Debug\net7.0\PedidoConsumer.sourcelink.json

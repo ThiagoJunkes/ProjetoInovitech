@@ -1,0 +1,7 @@
+D:\Programas\Git\ProjetoInovitech\PedidoAPI\obj\Debug\net7.0\PedidoAPI.csproj.AssemblyReference.cache
+D:\Programas\Git\ProjetoInovitech\PedidoAPI\obj\Debug\net7.0\PedidoAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\Git\ProjetoInovitech\PedidoAPI\obj\Debug\net7.0\PedidoAPI.AssemblyInfoInputs.cache
+D:\Programas\Git\ProjetoInovitech\PedidoAPI\obj\Debug\net7.0\PedidoAPI.AssemblyInfo.cs
+D:\Programas\Git\ProjetoInovitech\PedidoAPI\obj\Debug\net7.0\PedidoAPI.csproj.CoreCompileInputs.cache
+D:\Programas\Git\ProjetoInovitech\PedidoAPI\obj\Debug\net7.0\PedidoAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Programas\Git\ProjetoInovitech\PedidoAPI\obj\Debug\net7.0\PedidoAPI.sourcelink.json
